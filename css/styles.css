@@ -18,34 +18,48 @@ p {
   padding: 7% 15%;
 }
 
+.card-header .title {
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: black;
+}
+
 .download-btn {
   margin: 5% 3% 5% 0;
 }
 
 /* Features Section */
 .feature-title {
-  font-weight: 1.5;
+  font-weight: 800;
+  font-size: 1.55rem;
+  color: black;
 }
+
 .features-container {
   background-color: white;
   padding: 5% 15%;
   position: relative;
   z-index: 1;
 }
+
 .feature-box {
   padding: 5%;
 }
+
 .features-icon {
   color: #ff4c68;
   size: 20%;
   margin-bottom: 1rem;
 }
+
 .features-icon:hover {
   color: red;
 }
+
 .features-text {
   display: inline-block;
 }
+
 /*  */
 
 /* Headings */
@@ -58,16 +72,18 @@ p {
   font-size: 1.8rem;
   line-height: 1.5;
 }
+
 /*  */
 
 /* Sections */
-.colored-section{
+.colored-section {
   color: white;
 }
 
-.white-section{
+.white-section {
   color: black;
 }
+
 /*  */
 
 /* Title Section */
@@ -75,9 +91,11 @@ p {
   padding: 3% 15%;
   text-align: left;
 }
-#title .heading-big{
+
+#title .heading-big {
   padding-top: 20%;
 }
+
 .title-image {
   width: 60%;
   transform: rotate(30deg);
@@ -85,6 +103,7 @@ p {
   top: 130px;
   left: 25%;
 }
+
 /*  */
 
 /* Testimonail Section */
@@ -93,10 +112,14 @@ p {
   border-radius: 100%;
   margin: 20px;
 }
+
 .testimonial-text {
   font-size: 1.8rem;
   line-height: 1.5;
+  font-weight: 800;
+  color: white;
 }
+
 /*  */
 
 /* Navigation Bar */
@@ -104,21 +127,26 @@ p {
   font-family: "Ubuntu", sans-serif;
   font-size: 2.5rem;
 }
+
 .nav-item {
   padding: 0 10px;
 }
+
 .nav-link {
   font-size: 1.2rem;
 }
+
 /*  */
 
 /* Footer Section */
 .footer-icons {
   margin: 5px;
 }
+
 .footer-icons:hover {
   color: #ff4c68;
 }
+
 /*  */
 .press-img {
   width: 14rem;
@@ -128,9 +156,12 @@ p {
 .pricing-column {
   padding: 3% 2%;
 }
+
 .price-text {
   font-size: 1.8rem;
   line-height: 1.5;
+  color: black;
+  font-weight: 800;
 }
 
 /* -------------------------------------------Tags------------------------------------------- */
